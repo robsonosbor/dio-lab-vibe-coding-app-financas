@@ -77,8 +77,6 @@ O app deve atender todos os perfis com experiência positiva, aplicando design u
 ### 1. OBJETIVO DA MINHA JORNADA
 Meu objetivo principal foi revisar e aperfeiçoar o Product Requirements Document (PRD) de um aplicativo de organização financeira conversacional, exercitando habilidades de vibecoding e garantindo a aplicação dos princípios de design universal. Quis também preparar um material funcional para uso prático e colaborativo no Lovable.
 
----
-
 ### 2. MINHA INTERAÇÃO COM O COPILOT
 
 - Apresentei ao Copilot meu PRD inicial, simples e direto.
@@ -91,7 +89,6 @@ Meu objetivo principal foi revisar e aperfeiçoar o Product Requirements Documen
 ![Imagem Copilot 02](https://github.com/robsonosbor/dio-lab-vibe-coding-app-financas/blob/main/tela%20copilot%2002.png)
 ![Imagem Copilot 03](https://github.com/robsonosbor/dio-lab-vibe-coding-app-financas/blob/main/tela%20copilot%2003.png)
 
----
 
 ### 3. MINHA EXPERIÊNCIA NO LOVABLE
 - Usei o PRD revisado pelo Copilot para testar no Lovable.
@@ -105,7 +102,6 @@ Meu objetivo principal foi revisar e aperfeiçoar o Product Requirements Documen
 ![Imagem Lovable 01](https://github.com/robsonosbor/dio-lab-vibe-coding-app-financas/blob/main/tela%2001%20Lovable.png)
 ![Imagem Lovable 02](https://github.com/robsonosbor/dio-lab-vibe-coding-app-financas/blob/main/tela%2002%20Lovable.png)
 
----
 
 ### 4. PRINCIPAIS APRENDIZADOS
 - A troca ativa com o Copilot melhorou significativamente meu entendimento sobre PRD e vibecoding, além de reforçar o compromisso com design universal.
@@ -113,9 +109,6 @@ Meu objetivo principal foi revisar e aperfeiçoar o Product Requirements Documen
 - A experiência de co-criação no Lovable tornou claro como um PRD bem feito encurta caminhos no desenvolvimento de produto centrado no usuário.
 - Aprendi que imagens, exemplos práticos e espaços reservados para ajustes rápidos tornam o PRD ainda mais valioso.
 
----
-
 ### 5. CONCLUSÃO
-----------------------------
 Saio da experiência com um PRD robusto, pronto para outras rodadas de validação e ampliação. Pretendo aprimorar ainda mais o documento com análises das próximas sessões colaborativas no Lovable, registrando cada ciclo de feedback e evolução prática.
 Infelizmento os meus créditos free tanto no GitHub Copilot quando no Lovable terminaram, mas a experiência foi muito válida no que pude aprender e testar.
